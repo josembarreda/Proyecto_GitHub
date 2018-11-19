@@ -9,7 +9,7 @@ Para poder trabajar con mi proyecto en tu máquina local, solo basta con hacer u
 
 ### Pre-requisitos 📋
 
-Necesitas tener instalado Python3 para poder ejecutar el Script
+Necesitas tener instalado python3 para poder ejecutar el Script
 
 ```
 sudo apt-get install python
@@ -39,12 +39,12 @@ en mayúsculas que contenga el fichero.
 Se puede introducir mas datos en el fichero tanto letras como números.
 
 ```
-vi entero
+$ vi entero
 ```
 
 ## Construido con 🛠️
 
-Python3
+python3
 
 * [Python3](https://realpython.com/) - El Itérprete utilizado
 
