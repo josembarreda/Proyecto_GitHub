@@ -52,7 +52,7 @@ Python3
 
 * **Eddy** - *Trabajo Inicial* - [EddyBB](https://github.com/EddyBB)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/EddyBB/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/EddyBB/Proyecto_GitHub/graphs/contributors) quíenes han participado en este proyecto. 
 
 
 ---
