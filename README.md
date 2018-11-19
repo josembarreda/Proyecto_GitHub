@@ -12,7 +12,7 @@ Para poder trabajar con mi proyecto en tu máquina local, solo basta con hacer u
 Necesitas tener instalado Python3 para poder ejecutar el Script
 
 ```
-sudo apt-get install python3.6
+sudo apt-get install python
 ```
 
 ## Función del script 📌
