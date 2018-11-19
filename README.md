@@ -26,7 +26,7 @@ Para poder ejecutarlo:
 
 
 ```
-Python3 cat.py entero
+python3 cat.py entero
 ```
 
 ## Resultado ⚙️
@@ -46,7 +46,7 @@ vi entero
 
 Python3
 
-* [Python3](https://realpython.com/) - El IDE utilizado
+* [Python3](https://realpython.com/) - El Itérprete utilizado
 
 ## Autores ✒️
 
