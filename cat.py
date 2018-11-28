@@ -13,8 +13,10 @@ line = fh.readline().strip()
 while line:
   if line.isupper():
    fe.write(line + '\n')
+  print(line + '(no numérico)'
   if line.isnumeric():
-   print("Número: " + str(line))
+   print("Número: " + str(line) + '(numérico)')
   line = fh.readline().strip()
+print('solo se admiten numeros')
 fh.close()
 fe.close()
